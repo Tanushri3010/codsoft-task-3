@@ -1,2 +1,2 @@
 # codsoft-task-3
-creating tribute page using css and html
+created tribute page using html, js and css
